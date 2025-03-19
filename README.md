@@ -20,8 +20,8 @@ A modern, feature-rich task management application built with React and Tailwind
 - Built-in Focus time
 - Customizable duration
 - Minimizable interface
-- Audio notifications
 - Desktop notifications (when permitted)
+- - Audio notifications
 
 ## 🛠️ Technology Stack
 - **Frontend**: React 19, TailwindCSS
